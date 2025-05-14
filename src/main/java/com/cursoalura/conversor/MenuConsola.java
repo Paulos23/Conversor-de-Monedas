@@ -1,4 +1,4 @@
-package com.yourcompany.conversor;
+package com.cursoalura.conversor;
 
 import java.util.Scanner;
 
