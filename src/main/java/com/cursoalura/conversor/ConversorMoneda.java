@@ -7,7 +7,7 @@ public class ConversorMoneda {
             return monto * tasa;
         } catch (Exception e) {
             System.err.println("Error al convertir: " + e.getMessage());
-            return -1;// -
+            return -1;// 
         }
     }
 }
